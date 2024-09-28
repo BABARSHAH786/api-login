@@ -1,0 +1,72 @@
+.myImages{
+    height: 250px;
+}
+
+.renderCartData{
+    height: 800px;
+    width: 300px;
+    background-color: red;
+}
+
+.cartImgElement{
+    height: 40px;
+}
+
+nav{
+    font-size: 34px;
+background-color: rgb(197, 227, 197);
+text-align: center;}
+
+form{
+    position: relative;
+    top: 130px;
+    left: 340px;
+}
+input{
+    width: 23%;
+    height: 23px;
+}
+
+a{
+    background-color: rgb(246, 255, 227);
+    width: 12%;
+    height: 23px;
+    font-size: 29px;
+    position: relative;
+    left: 102px;
+    border-radius: black;
+    text-align: center;
+}
+
+
+
+footer{
+    position: relative;
+    bottom: -412px;
+    font-size: 18px;
+    text-align: center;
+    background-color: rgb(197, 227, 197);
+
+}
+
+a.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; 
+  
+    text-decoration: none; 
+  
+  }
+  
+  a.button:hover {
+    background-color: #3E8E41;
+  }
+
+  .center{
+    position: relative;
+    left: 21px;
+  }
